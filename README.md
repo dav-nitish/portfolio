@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="https://vercel.app" width="100%"/>
+  <img src="https://vercel.app" width="100%" alt="Nitish Kumar Banner"/>
 </p>
 
-<p align="center">
-  <a href="https://github.io" target="_blank">
-    <img src="https://shields.io🚀_LAUNCH_LIVE_PORTFOLIO-00ffe7?style=for-the-badge&logo=googlechrome&logoColor=03030f" alt="Live Portfolio" />
-  </a>
-</p>
+<h3 align="center">
+  🌐 <a href="https://github.io" target="_blank">Launch Live Interactive Portfolio</a>
+</h3>
 
 ---
 
@@ -19,18 +17,16 @@
 ---
 
 ### 🛠 Core Tech Stack
-<p>
-  <img src="https://shields.ioPython-03030f?style=for-the-badge&logo=python&logoColor=00ffe7" />
-  <img src="https://shields.ioMachine_Learning-03030f?style=for-the-badge&logo=tensorflow&logoColor=7b2fff" />
-  <img src="https://shields.ioData_Engineering-03030f?style=for-the-badge&logo=databricks&logoColor=00ffe7" />
-  <img src="https://shields.ioSQL-03030f?style=for-the-badge&logo=postgresql&logoColor=7b2fff" />
-  <img src="https://shields.ioHTML5_%2F_CSS3-03030f?style=for-the-badge&logo=html5&logoColor=00ffe7" />
-</p>
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | `Python` `SQL` `C` `C++` `JavaScript` |
+| **AI & ML** | `Machine Learning` `Deep Learning` `Neural Networks` `NLP` |
+| **Data & Tools** | `Data Analytics` `Pandas` `PowerBi` `NumPy` `Git` `GitHub` |
 
 ---
 
 ### 📊 GitHub Telemetry
 <p align="center">
-  <img src="https://vercel.app" height="165" />
-  <img src="https://demolab.com" height="165" />
+  <img src="https://herokuapp.com" alt="GitHub Streak" />
 </p>
